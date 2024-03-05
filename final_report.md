@@ -17,7 +17,7 @@ The original dataset captures a snapshot of customer interactions and purchases 
 
 1. **Data Loading and Exploration:**
 
-   - Successfully loaded the dataset from `Data/amazon.csv`.
+   - Successfully loaded the dataset from `amazon.csv`.
    - Conducted initial data exploration to comprehend its structure.
 
 2. **Data Cleaning and Transformation:**
@@ -55,7 +55,7 @@ The original dataset captures a snapshot of customer interactions and purchases 
 
 The top customers, based on their purchase activity, are as follows:
 
-- $@|\|TO$|-|, Sethu madhav, Akash Thakur, and others (10 purchases)
+- Sethu madhav, Akash Thakur, and others (10 purchases)
 - Manav, Adarsh Gupta, Sundeep, and others (8 purchases)
 - Satheesh Kadiam, Pritom Chakraborty, Vishwa, and others (8 purchases)
 
